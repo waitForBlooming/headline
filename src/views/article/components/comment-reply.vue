@@ -9,7 +9,6 @@
             @click="$emit('close')"
         />
     </van-nav-bar>
-    <div></div>
     <div class="scroll-wrap">
       <!-- 当前评论项 -->
       <comment-item
