@@ -1,6 +1,5 @@
 <template>
   <div class="home-container" >
-    <span></span>
     <!-- 导航栏 -->
     <van-nav-bar class="page-nav-bar" fixed>
       <van-button
