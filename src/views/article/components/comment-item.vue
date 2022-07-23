@@ -7,6 +7,7 @@
       fit="cover"
       :src="comment.aut_photo"
     />
+    <div></div>
     <div slot="title" class="title-wrap">
       <div class="user-name">{{ comment.aut_name }}</div>
         <van-button
