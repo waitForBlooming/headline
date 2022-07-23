@@ -8,6 +8,7 @@
     @load="onLoad"
     :immediate-check="false"
   >
+  <span></span>
     <comment-item
       v-for="(item, index) in list"
       :key="index"
