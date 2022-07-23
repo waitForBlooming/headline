@@ -9,6 +9,7 @@
     />
     <p></p>
     <div></div>
+    <div></div>
     <div slot="title" class="title-wrap">
       <div class="user-name">{{ comment.aut_name }}</div>
         <van-button
