@@ -1,5 +1,12 @@
 <template>
   <div class="home-container" >
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
     <!-- 导航栏 -->
     <van-nav-bar class="page-nav-bar" fixed>
       <van-button
