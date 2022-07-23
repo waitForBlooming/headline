@@ -10,7 +10,6 @@
       placeholder="请输入留言"
       show-word-limit
     />
-    <span></span>
     <van-button
       class="post-btn"
       @click="onPost"
